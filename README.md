@@ -2,10 +2,10 @@
 
 ![Timer menu](https://github.com/MicDaniel/TimerJS/blob/master/images/Home.JPG)
 
-![Timer menu when overtime](/TimerJS/blob/master/images/HomeExpired.JPG)
+![Timer menu when overtime](https://github.com/MicDaniel/TimerJS/blob/master/images/HomeExpired.JPG)
 
-![Projection](/TimerJS/blob/master/images/Projection.JPG)
+![Projection](https://github.com/MicDaniel/TimerJS/blob/master/images/Projection.JPG)
 
-![Projection timer upwards when overtime](/TimerJS/blob/masterimages/ProjectionTExpired.jpg)
+![Projection timer upwards when overtime](https://github.com/MicDaniel/TimerJS/blob/master/images/ProjectionCDExpired.JPG)
 
-![Projection timer downwards when ovetime](/TimerJS/blob/masterImages/ProjectionCDExpired.jpg)
+![Projection timer downwards when ovetime](https://github.com/MicDaniel/TimerJS/blob/master/images/ProjectionTExpired.JPG)
