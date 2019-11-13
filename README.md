@@ -1,6 +1,6 @@
 #**TIMER**
 
-[Timer menu] (/images/Home.jpg)
+![Timer menu] (/images/Home.jpg)(url)!
 
 [Timer menu when overtime] (/images/HomeExpired.jpg)
 
