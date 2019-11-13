@@ -1,0 +1,34 @@
+.expired{
+    color: rgb(224, 37, 12);
+    font-family: myFirstFont;
+    font-size: 50vw;
+    letter-spacing: 0.5cm;
+}
+.normal{
+    color: silver;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-size: 50px;
+    width: 100px;
+    height: 100px;
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(digital-7.regular.ttf);
+    size: 100px;
+}
+/*-------------------------------------------------- */ 
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px; /* Margin bottom by footer height */
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px; /* Set the fixed height of the footer here */
+  line-height: 60px; /* Vertically center the text there */
+  background-color: #f5f5f5;
+}

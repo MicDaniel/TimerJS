@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Demo Receiver</title>
+    <style type="text/css">
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+            font-family: sans-serif;
+            background: #9b3b3b ; 
+            color: #fff;
+            overflow: hidden;
+            background: radial-gradient(ellipse at center, #333333 0%, #000000 50%);
+        }
+
+        body2{
+              background: radial-gradient(ellipse at center, #333333 0%, #000000 50%);
+        }
+
+
+        #main {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            font-size: 55vh;
+
+        }
+        .animationStart{
+            animation-duration: 1s;
+            animation-name: overTimeAnimation;
+            animation-iteration-count: infinite;
+            animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+            animation-direction: alternate;
+        }
+
+        .isOverTime{
+            color: red;
+        }
+        .isOverTimeBack{
+            color: red;
+        }
+
+@keyframes overTimeAnimation {
+   100% {
+       color:red;
+   }
+}
+
+    </style>
+</head>
+<body>
+   
+    <div id="main" class="clock">
+        00:00
+    </div>
+    <ul id="message-list">
+    </ul>
+        <script type="text/javascript" src="receiver.js"></script>
+</body>
+
+</html>
