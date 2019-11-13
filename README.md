@@ -2,9 +2,9 @@
 
 ![Timer menu](https://github.com/MicDaniel/TimerJS/blob/master/images/Home.JPG)
 
-![Timer menu when overtime](/TimerJS/blob/master/images/HomeExpired.jpg)
+![Timer menu when overtime](/TimerJS/blob/master/images/HomeExpired.JPG)
 
-![Projection](/TimerJS/blob/master/images/Projection.jpg)
+![Projection](/TimerJS/blob/master/images/Projection.JPG)
 
 ![Projection timer upwards when overtime](/TimerJS/blob/masterimages/ProjectionTExpired.jpg)
 
