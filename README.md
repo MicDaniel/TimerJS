@@ -1,6 +1,6 @@
 #**TIMER**
 
-![Timer menu] (/images/Home.jpg)(url)!
+![Timer menu] (https://github.com/MicDaniel/TimerJS/blob/master/images/Home.JPG)!
 
 [Timer menu when overtime] (/images/HomeExpired.jpg)
 
