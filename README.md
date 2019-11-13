@@ -14,4 +14,3 @@
 
 ## Projection timer downwards when overtime
 ![Projection timer downwards when ovetime](https://github.com/MicDaniel/TimerJS/blob/master/images/ProjectionCDExpired.JPG)
->>>>>>> 24f9251a49477cc5f791647a956656ad4dfeb27e
